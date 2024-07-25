@@ -1,0 +1,9 @@
+POST : http://localhost:8080/api/assignee (Adding new Assignee)
+GET : http://localhost:8080/api/assignee/3 (for Fetching details)
+PUT : http://localhost:8080/api/assignee/2 (For Updating Assignee)
+DELETE : http://localhost:8080/api/assignee/2 (For Deleting Assignee)
+
+POST : http://localhost:8080/api/tasks (Adding new Tasks)
+DELETE : http://localhost:8080/api/tasks/6 (for deleting tasks)
+PUT : http://localhost:8080/api/tasks/3/assign/2 (for Assigning Tasks to Assignee)
+PUT : http://localhost:8080/api/tasks/1 (for updating Tasks)

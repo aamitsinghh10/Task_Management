@@ -1,0 +1,6 @@
+task_id,description,task_name,assignee_id
+1,"Project based on crud Operations","Task Management",2
+2,"India is famous for Tourism",Tourism,3
+3,"Italian cuisine is known for its pasta dishes.",Cooking,2
+4,"JavaScript is a popular language for web development.",Coding,3
+5,"Reading enhances your knowledge and imagination.",Reading,1
